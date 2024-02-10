@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning about cloud services in DevOps.
-🔭 I’m currently working on Google Cloud Platform.
+###🌱 I’m currently learning about cloud services in DevOps.
+###🔭 I’m currently working on Google Cloud Platform.
 <!--
 **pluto1020/pluto1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
